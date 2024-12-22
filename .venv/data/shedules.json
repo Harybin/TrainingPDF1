@@ -1,0 +1,1896 @@
+[
+    {
+        "goal": "cardio",
+        "schedule": [
+            {
+                "day": "Day 1",
+                "exercises": [
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Single-leg Deadlift",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 2",
+                "exercises": [
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    },
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 3",
+                "exercises": [
+                    {
+                        "name": "Cycling",
+                        "duration": 30,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "goal": "cardio",
+        "schedule": [
+            {
+                "day": "Day 1",
+                "exercises": [
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Single-leg Deadlift",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 2",
+                "exercises": [
+                    {
+                        "name": "Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Single-leg Deadlift",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 3",
+                "exercises": [
+                    {
+                        "name": "Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 4",
+                "exercises": [
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    },
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 5",
+                "exercises": [
+                    {
+                        "name": "Single-leg Deadlift",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 6",
+                "exercises": [
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 7",
+                "exercises": [
+                    {
+                        "name": "Box Jumps",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 8",
+                "exercises": [
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Box Jumps",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 9",
+                "exercises": [
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 10",
+                "exercises": [
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Box Jumps",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "goal": "cardio",
+        "schedule": [
+            {
+                "day": "Day 1",
+                "exercises": [
+                    {
+                        "name": "Box Jumps",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Single-leg Deadlift",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 2",
+                "exercises": [
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 3",
+                "exercises": [
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Single-leg Deadlift",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 4",
+                "exercises": [
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Box Jumps",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 5",
+                "exercises": [
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    },
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 6",
+                "exercises": [
+                    {
+                        "name": "Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Bulgarian Split Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 7",
+                "exercises": [
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 8",
+                "exercises": [
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 9",
+                "exercises": [
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Leg Press",
+                        "duration": 20,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 10",
+                "exercises": [
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "goal": "cardio",
+        "schedule": [
+            {
+                "day": "Day 1",
+                "exercises": [
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 2",
+                "exercises": [
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 3",
+                "exercises": [
+                    {
+                        "name": "Box Jumps",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Leg Press",
+                        "duration": 20,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 4",
+                "exercises": [
+                    {
+                        "name": "Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Deadlift",
+                        "duration": 20,
+                        "muscle_groups": [
+                            "Legs",
+                            "Back"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 5",
+                "exercises": [
+                    {
+                        "name": "Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 6",
+                "exercises": [
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    },
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 7",
+                "exercises": [
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 8",
+                "exercises": [
+                    {
+                        "name": "Single-leg Deadlift",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 9",
+                "exercises": [
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 10",
+                "exercises": [
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "goal": "cardio",
+        "schedule": [
+            {
+                "day": "Day 1",
+                "exercises": [
+                    {
+                        "name": "Deadlift",
+                        "duration": 20,
+                        "muscle_groups": [
+                            "Legs",
+                            "Back"
+                        ]
+                    },
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 2",
+                "exercises": [
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 3",
+                "exercises": [
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 4",
+                "exercises": [
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 5",
+                "exercises": [
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Bulgarian Split Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 6",
+                "exercises": [
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 7",
+                "exercises": [
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Box Jumps",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 8",
+                "exercises": [
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Leg Press",
+                        "duration": 20,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 9",
+                "exercises": [
+                    {
+                        "name": "Bulgarian Split Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 10",
+                "exercises": [
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "goal": "cardio",
+        "schedule": [
+            {
+                "day": "Day 1",
+                "exercises": [
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 2",
+                "exercises": [
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    },
+                    {
+                        "name": "Leg Press",
+                        "duration": 20,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 3",
+                "exercises": [
+                    {
+                        "name": "Deadlift",
+                        "duration": 20,
+                        "muscle_groups": [
+                            "Legs",
+                            "Back"
+                        ]
+                    },
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 4",
+                "exercises": [
+                    {
+                        "name": "Box Jumps",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 5",
+                "exercises": [
+                    {
+                        "name": "Cycling",
+                        "duration": 30,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 6",
+                "exercises": [
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 7",
+                "exercises": [
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 8",
+                "exercises": [
+                    {
+                        "name": "Leg Press",
+                        "duration": 20,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 9",
+                "exercises": [
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 10",
+                "exercises": [
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "goal": "cardio",
+        "schedule": [
+            {
+                "day": "Day 1",
+                "exercises": [
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 2",
+                "exercises": [
+                    {
+                        "name": "Leg Press",
+                        "duration": 20,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 3",
+                "exercises": [
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 4",
+                "exercises": [
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 5",
+                "exercises": [
+                    {
+                        "name": "Box Jumps",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Leg Press",
+                        "duration": 20,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 6",
+                "exercises": [
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Single-leg Deadlift",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 7",
+                "exercises": [
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    },
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 8",
+                "exercises": [
+                    {
+                        "name": "Cycling",
+                        "duration": 30,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 9",
+                "exercises": [
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 10",
+                "exercises": [
+                    {
+                        "name": "Running",
+                        "duration": 30,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 11",
+                "exercises": [
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 12",
+                "exercises": [
+                    {
+                        "name": "Box Jumps",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    },
+                    {
+                        "name": "Jump Squats",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 13",
+                "exercises": [
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    },
+                    {
+                        "name": "Bulgarian Split Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 14",
+                "exercises": [
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Box Jumps",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 15",
+                "exercises": [
+                    {
+                        "name": "Cycling",
+                        "duration": 30,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 16",
+                "exercises": [
+                    {
+                        "name": "Running",
+                        "duration": 30,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 17",
+                "exercises": [
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 18",
+                "exercises": [
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Bulgarian Split Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 19",
+                "exercises": [
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Single-leg Deadlift",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 20",
+                "exercises": [
+                    {
+                        "name": "Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Side Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

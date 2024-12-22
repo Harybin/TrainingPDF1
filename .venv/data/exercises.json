@@ -1,0 +1,463 @@
+[
+    {
+        "name": "Pull-ups",
+        "duration": 10,
+        "muscle_groups": [
+            "Back",
+            "Biceps"
+        ]
+    },
+    {
+        "name": "Squats",
+        "duration": 15,
+        "muscle_groups": [
+            "Legs"
+        ]
+    },
+    {
+        "name": "Plank",
+        "duration": 5,
+        "muscle_groups": [
+            "Core"
+        ]
+    },
+    {
+        "name": "Deadlift",
+        "duration": 20,
+        "muscle_groups": [
+            "Legs",
+            "Back"
+        ]
+    },
+    {
+        "name": "Bench Press",
+        "duration": 20,
+        "muscle_groups": [
+            "Chest",
+            "Triceps"
+        ]
+    },
+    {
+        "name": "Dumbbell Rows",
+        "duration": 15,
+        "muscle_groups": [
+            "Back",
+            "Biceps"
+        ]
+    },
+    {
+        "name": "Overhead Press",
+        "duration": 15,
+        "muscle_groups": [
+            "Shoulders"
+        ]
+    },
+    {
+        "name": "Lunges",
+        "duration": 10,
+        "muscle_groups": [
+            "Legs"
+        ]
+    },
+    {
+        "name": "Bicep Curls",
+        "duration": 10,
+        "muscle_groups": [
+            "Biceps"
+        ]
+    },
+    {
+        "name": "Tricep Dips",
+        "duration": 10,
+        "muscle_groups": [
+            "Triceps"
+        ]
+    },
+    {
+        "name": "Leg Press",
+        "duration": 20,
+        "muscle_groups": [
+            "Legs"
+        ]
+    },
+    {
+        "name": "Calf Raises",
+        "duration": 5,
+        "muscle_groups": [
+            "Calves"
+        ]
+    },
+    {
+        "name": "Mountain Climbers",
+        "duration": 5,
+        "muscle_groups": [
+            "Legs",
+            "Core"
+        ]
+    },
+    {
+        "name": "Burpees",
+        "duration": 10,
+        "muscle_groups": [
+            "Full Body"
+        ]
+    },
+    {
+        "name": "Russian Twists",
+        "duration": 10,
+        "muscle_groups": [
+            "Core"
+        ]
+    },
+    {
+        "name": "Sit-ups",
+        "duration": 10,
+        "muscle_groups": [
+            "Core"
+        ]
+    },
+    {
+        "name": "Running",
+        "duration": 30,
+        "muscle_groups": [
+            "Legs",
+            "Cardio"
+        ]
+    },
+    {
+        "name": "Cycling",
+        "duration": 30,
+        "muscle_groups": [
+            "Legs",
+            "Cardio"
+        ]
+    },
+    {
+        "name": "Yoga Stretch",
+        "duration": 20,
+        "muscle_groups": [
+            "Stretch"
+        ]
+    },
+    {
+        "name": "Jump Rope",
+        "duration": 10,
+        "muscle_groups": [
+            "Legs",
+            "Cardio"
+        ]
+    },
+    {
+        "name": "Pull-apart Bands",
+        "duration": 10,
+        "muscle_groups": [
+            "Shoulders"
+        ]
+    },
+    {
+        "name": "Arnold Press",
+        "duration": 15,
+        "muscle_groups": [
+            "Shoulders"
+        ]
+    },
+    {
+        "name": "Hanging Leg Raises",
+        "duration": 10,
+        "muscle_groups": [
+            "Core"
+        ]
+    },
+    {
+        "name": "Dumbbell Flyes",
+        "duration": 15,
+        "muscle_groups": [
+            "Chest"
+        ]
+    },
+    {
+        "name": "Incline Bench Press",
+        "duration": 20,
+        "muscle_groups": [
+            "Chest",
+            "Triceps"
+        ]
+    },
+    {
+        "name": "Barbell Rows",
+        "duration": 20,
+        "muscle_groups": [
+            "Back"
+        ]
+    },
+    {
+        "name": "Chest Dips",
+        "duration": 10,
+        "muscle_groups": [
+            "Chest"
+        ]
+    },
+    {
+        "name": "Farmers Walk",
+        "duration": 15,
+        "muscle_groups": [
+            "Core",
+            "Forearms"
+        ]
+    },
+    {
+        "name": "Step-ups",
+        "duration": 10,
+        "muscle_groups": [
+            "Legs"
+        ]
+    },
+    {
+        "name": "Side Plank",
+        "duration": 5,
+        "muscle_groups": [
+            "Core"
+        ]
+    },
+    {
+        "name": "Face Pulls",
+        "duration": 10,
+        "muscle_groups": [
+            "Shoulders"
+        ]
+    },
+    {
+        "name": "Bent-over Rows",
+        "duration": 15,
+        "muscle_groups": [
+            "Back"
+        ]
+    },
+    {
+        "name": "Hammer Curls",
+        "duration": 10,
+        "muscle_groups": [
+            "Biceps"
+        ]
+    },
+    {
+        "name": "Concentration Curls",
+        "duration": 10,
+        "muscle_groups": [
+            "Biceps"
+        ]
+    },
+    {
+        "name": "Skull Crushers",
+        "duration": 10,
+        "muscle_groups": [
+            "Triceps"
+        ]
+    },
+    {
+        "name": "Kettlebell Swings",
+        "duration": 15,
+        "muscle_groups": [
+            "Legs",
+            "Core"
+        ]
+    },
+    {
+        "name": "Jump Squats",
+        "duration": 10,
+        "muscle_groups": [
+            "Legs"
+        ]
+    },
+    {
+        "name": "Single-leg Deadlift",
+        "duration": 15,
+        "muscle_groups": [
+            "Legs",
+            "Core"
+        ]
+    },
+    {
+        "name": "Box Jumps",
+        "duration": 10,
+        "muscle_groups": [
+            "Legs"
+        ]
+    },
+    {
+        "name": "Wall Sit",
+        "duration": 5,
+        "muscle_groups": [
+            "Legs"
+        ]
+    },
+    {
+        "name": "Glute Bridges",
+        "duration": 10,
+        "muscle_groups": [
+            "Glutes"
+        ]
+    },
+    {
+        "name": "Dragon Flag",
+        "duration": 15,
+        "muscle_groups": [
+            "Core"
+        ]
+    },
+    {
+        "name": "Side Lunges",
+        "duration": 10,
+        "muscle_groups": [
+            "Legs"
+        ]
+    },
+    {
+        "name": "Pike Push-ups",
+        "duration": 10,
+        "muscle_groups": [
+            "Shoulders"
+        ]
+    },
+    {
+        "name": "Bodyweight Rows",
+        "duration": 10,
+        "muscle_groups": [
+            "Back"
+        ]
+    },
+    {
+        "name": "Bulgarian Split Squats",
+        "duration": 15,
+        "muscle_groups": [
+            "Legs"
+        ]
+    },
+    {
+        "name": "traction",
+        "duration": 10,
+        "muscle_groups": [
+            "biceps"
+        ]
+    },
+    {
+        "goal": "cardio",
+        "schedule": [
+            {
+                "day": "Day 1",
+                "exercises": [
+                    {
+                        "name": "Kettlebell Swings",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Step-ups",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 2",
+                "exercises": [
+                    {
+                        "name": "Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Jump Rope",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Wall Sit",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 3",
+                "exercises": [
+                    {
+                        "name": "Cycling",
+                        "duration": 30,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 4",
+                "exercises": [
+                    {
+                        "name": "Running",
+                        "duration": 30,
+                        "muscle_groups": [
+                            "Legs",
+                            "Cardio"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 5",
+                "exercises": [
+                    {
+                        "name": "Lunges",
+                        "duration": 10,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    },
+                    {
+                        "name": "Mountain Climbers",
+                        "duration": 5,
+                        "muscle_groups": [
+                            "Legs",
+                            "Core"
+                        ]
+                    },
+                    {
+                        "name": "Bulgarian Split Squats",
+                        "duration": 15,
+                        "muscle_groups": [
+                            "Legs"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
